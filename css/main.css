@@ -1,0 +1,62 @@
+body {
+  background-color: #1c7430; }
+
+.navbar-brand {
+  margin-top: -10px;
+  margin-bottom: -10px;
+  padding: 0; }
+
+.navbar {
+  background-color: #333; }
+  .navbar .nav-link {
+    color: #fff000; }
+    .navbar .nav-link:hover {
+      color: #ffd000; }
+  .navbar .active .nav-link {
+    color: #ffc000;
+    font-weight: bold; }
+  .navbar .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,240,000, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); }
+
+.leftside {
+  background-color: yellowgreen; }
+
+.main {
+  background-color: #444444;
+  color: #fff000;
+  font-family: sans-serif;
+  font-weight: bold; }
+  .main a {
+    color: #fff000; }
+  .main img {
+    width: 100%;
+    padding: 5px; }
+
+.rightside {
+  background-color: cornflowerblue; }
+
+.article-link:hover {
+  text-decoration: none; }
+
+.footer {
+  height: 30px;
+  width: 100%;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  color: #fff222; }
+
+.title {
+  font-size: 30px; }
+
+.maps {
+  margin-top: 10px; }
+
+.table {
+  color: #fff000; }
+
+iframe {
+  padding: 10px; }
+
+/*# sourceMappingURL=main.css.map */
